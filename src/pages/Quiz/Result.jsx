@@ -60,7 +60,7 @@ const Result = ({ scores, maxScores }) => {
       
       <div className="dominant-result">
         <img 
-          src={`/images/${image}`} 
+          src={`/tech-quiz/images/${image}`} 
           alt={area}
           className="result-image"
         />
